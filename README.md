@@ -16,9 +16,12 @@ En este repo registraré los recursos de aprendizaje y algunos apuntes que me ha
 ## Cursos MOOC
 
 1. [Coursera - Crypto I - Stanford](https://www.coursera.org/learn/crypto/)
+2. [Udacity- Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387)
 
 ## Recursos extra
 
 - [Learn Cryptography](https://learncryptography.com/)
 
-##
+## Notas
+
+?
