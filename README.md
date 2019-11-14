@@ -24,4 +24,4 @@ En este repo registraré los recursos de aprendizaje y algunos apuntes que me ha
 
 ## Notas
 
-?
+Estarán en cada uno de los subdirectorios. 
