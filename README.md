@@ -12,6 +12,7 @@ En este repo registraré los recursos de aprendizaje y algunos apuntes que me ha
 2. [Cryptography Engineering](https://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
 3. [Applied Cryptography](https://www.amazon.com/Applied-Cryptography-Protocols-Algorithms-Source/dp/1119096723/)
 4. [Understanding Cryptography](http://swarm.cs.pub.ro/~mbarbulescu/cripto/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
+5. [Practical Cryptography for developers](https://cryptobook.nakov.com/)
 
 ## Cursos MOOC
 
