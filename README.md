@@ -24,5 +24,4 @@ En este repo registraré los recursos de aprendizaje y algunos apuntes que me ha
 - [Learn Cryptography](https://learncryptography.com/)
 
 ## Notas
-
-Estarán en cada uno de los subdirectorios. 
+Estarán en cada uno de los sub-directorios.
