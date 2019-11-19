@@ -1,1 +1,5 @@
 # Hashing
+
+Los hashes son los algoritmos criptográficos más usados.
+
+Un hash es un algoritmo que entrega un valor de tamaño fijo independientemente del tamaño de los datos que se introdujeron.
